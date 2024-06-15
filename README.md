@@ -1,5 +1,5 @@
 # The management of First Information Reports (FIRs) in criminal investigations currently faces significant challenges related to transparency, accountability, and security. These issues hinder the efficiency and effectiveness of the criminal justice system. The key challenges include:
-# Delayed Registration: The current system frequently causes delays in filing FIRs, jeopardizing the investigation process and allowing guilty parties to evade justice. This delay can result from bureaucratic red tape, manual processes, and limited accessibility for complainants.
+Delayed Registration: The current system frequently causes delays in filing FIRs, jeopardizing the investigation process and allowing guilty parties to evade justice. This delay can result from bureaucratic red tape, manual processes, and limited accessibility for complainants.
 
 Lack of Transparency: The traditional FIR registration system is prone to power abuse and corruption due to its lack of transparency. This can lead to selective registration, tampering with information, and mistrust in the law enforcement agencies.
 
